@@ -84,7 +84,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'virtua',  # 数据库名称 提前建好
         'USER': 'root',  # mysql管理
-        'PASSWORD': '',
+        'PASSWORD': '1q2w3e..',
         'HOST': '',  # 默认本机
         'PORT': '',  # 默认3306
     }
@@ -95,7 +95,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'zh-hans'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
 
